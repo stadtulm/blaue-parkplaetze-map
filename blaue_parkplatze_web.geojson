@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/7a4dc271-143a-4b75-966f-2371363e8380/download/619171eb-3ed0-4506-a7cf-c9382080a47e.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9939040833,
+          48.39685012933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/bb71ef61-98c7-42b4-84b9-422f5e5b73d2/download/ae4def66-ae76-43c3-9110-a55178cd6b52.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98901039094,
+          48.35983136845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/4e7028f0-3b89-4ff1-9b4c-634e3fba664d/download/5a0079c9-4f8a-4e47-8efb-d498bdaaf266.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9910810563,
+          48.36201985643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/81487a17-8123-480d-8595-c0ca99b836ce/download/94a6fd69-6aa9-46c3-8324-7a5773865846.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.91149991482,
+          48.35302827739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/48d13a6c-3c0e-485a-a43f-ec872279b3c9/download/a3781a61-9a92-4009-a2cd-f9ca91644c2e.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95720207423,
+          48.38301066249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/00c70fd2-c35c-4a60-abe5-07890d2b5623/download/7e823599-a0a1-4f68-b15d-593933e42357.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96588974923,
+          48.38611017547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/bb7521ad-e118-4eca-a561-fc6eac6e15f7/download/2cdadd6f-fe11-4b98-a63a-6e300b417fc6.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97865974635,
+          48.39460258631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/6de3fa6a-de42-4c17-97fb-9127dabba1ed/download/97deb629-81e0-47df-8114-59a3663d8333.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96061384141,
+          48.39741467434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/271dd2d8-3ddb-4ff1-88d6-049959ff3cb8/download/033956bf-ad87-4746-b392-9321783c6090.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95473712415,
+          48.39548416269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/1b76eeb9-c194-461f-bdc4-1f615ebb767b/download/18d8879d-7d87-41bc-b6f1-29d342f7ae58.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95770364732,
+          48.39464889171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/59b31411-2d1e-46e7-8c3f-958bc179f46f/download/017ebfe0-19bc-4ad1-bb2b-7664417e9559.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95888649881,
+          48.39533456471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/2745d105-e13c-4280-ad3d-14bbb447eda5/download/ebad5e0d-9d45-4491-b877-c2adcde40ac7.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94244992197,
+          48.41928629323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/7194aa10-d188-4988-9701-40e29937c8c1/download/ae9ed5a3-02ab-4299-89db-5c2be7df9be5.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94396268785,
+          48.41791202695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/2a3c52bc-86e1-49dd-8243-73a7f79136aa/download/a0566915-1ceb-439c-94da-12a5dbb5ad49.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94376420438,
+          48.41967079632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/4db10daf-15cd-4849-8dc0-39c86a06ad7b/download/933736e9-c56c-4e5e-bb23-08fc531a5ff7.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94490682542,
+          48.42571921677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/b32623d6-e540-427e-9bed-2fbabb13be07/download/9998bc5f-9c12-45d1-9732-143757cb359f.jpeg",
+        "capacity": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94550227851,
+          48.42493249826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/2c6ff930-b154-461f-9a5f-1d793360a45d/download/39a85097-02a9-418a-b6c8-447338351eb0.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94406461447,
+          48.42334834842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/39ce3a75-df69-44ee-92bb-34adb353151a/download/2aa73331-4840-4d0e-bbf9-e67c158a6689.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98702823848,
+          48.44261288644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/562ed434-9a58-4836-9363-c6a11b919a24/download/097a2015-18b8-4e6d-aaa1-643616fc1e91.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01278280944,
+          48.42933759918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/5aa16206-da60-4f58-abe2-dbb12267f663/download/aa3e33f9-e894-4060-81c7-7f08b7d979b1.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9895039174,
+          48.40517337229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/eb6add49-5577-4558-b997-4afe53009a40/download/9a4477c1-6080-413a-be45-41d6098026d9.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98590707511,
+          48.40139300152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/aac2263d-723c-432e-b836-8f8862f71671/download/adb2f5f2-0e3a-4fe0-9c2a-e6fd0e58c8c6.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98345553607,
+          48.40041180426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/20f16804-b754-4cb9-8aaf-d6d6df5e21e0/download/eb9814e0-c742-483d-8a83-ca193fadb168.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98581051558,
+          48.40015715288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/20dfdf2a-178a-4a6a-866d-521a90fc3f95/download/077ba66c-ca96-4a5e-b157-3873951614f9.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98886555165,
+          48.40089261109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/12979351-dc16-4c5a-947b-76eb42dd6266/download/517e2d42-6e4b-4448-ab0e-30d2a3c21b2d.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98952940039,
+          48.39996393618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/ec15fd4a-dbcc-4833-869f-45c10c69c6f1/download/d1625337-dede-4375-8d40-f487ccddcda4.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98652130097,
+          48.39923826036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/6d4397eb-be36-4c53-9baa-3362d6ec8917/download/e35e5029-1a51-447d-a39c-d29abfd1ed72.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98717039555,
+          48.39753755309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/d89c2244-1908-4c40-bb79-ef933feb3763/download/2528c927-9d5e-4263-87eb-bb086c2afed6.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98815476626,
+          48.3970210967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/8ccd58ef-dff6-49be-9f60-cd4667772f8a/download/6d130648-168f-4032-bcb3-63f58af725eb.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9887609455,
+          48.39656518601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/d3520982-e4a7-4c6a-b076-70d1e9096dae/download/e30fd791-e370-4f5d-af1b-34855467c804.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99041050404,
+          48.39641558942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/ba4778cf-56d0-4449-9a1f-0ebf533e310c/download/432d7f3e-ef80-43ad-8f84-afc6f1ecf469.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99374180764,
+          48.3983442831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/7fb0758f-cd59-43d8-9553-bef50655fa97/download/4b023087-0c2b-4f8e-bf88-037ea5e0b9dd.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99446600407,
+          48.3995837374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/20729812-57e8-4cf8-ba59-a64ae8ee09ac/download/0961031b-dac9-4646-abff-989518ac831f.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99519020051,
+          48.39890702759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/08ac4975-0639-487e-bad2-28c9ea451c25/download/1a3e5710-29bb-4080-ba66-8fd99833b824.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9970918867,
+          48.39768358464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/b5a171b6-f85b-43f6-9e4f-2cfd7bf2b599/download/332c2b65-5c8a-49ad-9f64-7c449eb1fc57.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99108373851,
+          48.40007879835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/d298bb53-1f0f-4cd9-bdf5-9ed9ec682f85/download/1d404fb7-3cd1-4c30-868a-8e77e5a7c939.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9854591462,
+          48.39254551536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/41b0478d-e5e0-49bf-bb47-d9b6690f27d1/download/22df00bc-3ad5-4c88-9c97-712d5d637e9c.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98508900136,
+          48.3920664107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/bbbb7208-b7f7-4281-8282-39f19417fb2c/download/6f126718-2cd3-43ce-8e06-b2c4f4fcba6b.jpeg",
+        "capacity": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98480200499,
+          48.391729788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/5901f276-4692-4182-b4a1-1eaffec83c19/download/cf8bbc0d-b21a-4957-a154-479d00bf918e.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98374253243,
+          48.39320093747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/3b964ef1-18b2-4951-b375-8d5d33b02a67/download/387585e4-eb96-4088-9667-7c7e04d95819.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99944954842,
+          48.40176695557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/5c3b40ea-444c-4b25-9178-5fe2d7bb1102/download/59587564-9056-430c-a974-332057815fd0.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00074237317,
+          48.40235103068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/e7de3b26-0b76-401b-987a-e5a99694b2e2/download/a12d57f5-7706-4e83-8c2b-a440794bdf34.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00623553723,
+          48.40245609226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/4475927e-7e0a-41af-87f0-32135ca166dd/download/96f02d7a-98ba-4077-abc1-340723f8436c.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00845372409,
+          48.40166011184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/c428fab3-9773-4ab1-89ce-a57cb9998923/download/76b5c7ab-4686-4378-9c5a-3d90bea75959.jpeg",
+        "capacity": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01104473934,
+          48.40314521872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/2acb0cdc-d67a-4162-95f3-153ea23b06af/download/b31035ea-e5e2-421f-93e2-29ceba88183f.jpeg",
+        "capacity": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01132234797,
+          48.41174427982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/1ef21aad-e989-4eaa-bc08-b10e88237306/download/10773a72-7cab-418b-81b0-9f6388a1c4b2.jpeg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98701750964,
+          48.41564404852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/ca923f0b-003c-449e-88d3-edd0e6f38f93/download/img_9317.jpg",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94454,
+          48.40817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://datenhub.ulm.de/ckan/dataset/694e940c-6255-472a-865b-2f36c726f13e/resource/26edc95c-6f5b-4f5b-9406-461e1008b1c5/download/img_9532.jpg",
+        "capacity": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.951049,
+          48.424053
+        ]
+      }
+    }
+  ]
+}

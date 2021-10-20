@@ -1,0 +1,59 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="./lib/leaflet/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+   <script src="./lib/leaflet/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+	<style type="text/css">
+		html, body {
+			padding: 0;
+			margin: 0;
+		}
+
+		#map {
+			position: absolute;
+			height: 100%;
+			width: 100%;
+		}
+	</style>
+</head>
+<body>
+	 <div id="map"></div>
+</body>
+<script type="text/javascript">
+	var map = L.map('map').setView([48.4076, 9.9940], 14);
+	L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+	    maxZoom: 19,
+	    tileSize: 256,
+	}).addTo(map);
+
+	function buildPopupContent(feature) {
+		let html = ""
+		if (feature.properties.capacity) {
+			html += `<b>Stellplätze:</b> ${feature.properties.capacity}<br><br>`
+		}
+		if (feature.properties.image) {
+			html += `<img width="300px" src="${feature.properties.image}" />`
+		}
+		return html
+	}
+
+	async function loadData() {
+		var response = await fetch('./blaue_parkplatze_web.geojson')
+		var data = await response.json()
+		console.log(data)
+		L.geoJSON(data, {
+			onEachFeature: function(feature, layer) {
+				console.log("feature")
+				layer.bindPopup(buildPopupContent(feature))
+			}
+		}).addTo(map)
+	}
+
+	loadData()
+</script>
+</html>
