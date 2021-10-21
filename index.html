@@ -1,6 +1,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="./lib/leaflet/leaflet.css"
    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
    crossorigin=""/>
@@ -15,13 +16,28 @@
 
 		#map {
 			position: absolute;
-			height: 100%;
+			height: calc(100vh - 50px);
 			width: 100%;
 		}
+		#header {
+			max-height: 50px;
+			padding: 0;
+		}
+
+		#header h1 {
+			margin: 0;
+			padding: 5px;
+			line-height: 45px;
+			font-family: sans-serif;
+		}
+
 	</style>
 </head>
 <body>
-	 <div id="map"></div>
+	<div id="header">
+		<h1>Blauen Parkplätze Ulm</h1>
+	</div>
+	<div id="map"></div>
 </body>
 <script type="text/javascript">
 	var map = L.map('map').setView([48.4076, 9.9940], 14);
